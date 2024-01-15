@@ -42,7 +42,7 @@ st.markdown("---")
 st.subheader("🚀 吉祥的页面")
 st.write("""
 - **Lucky-Chat**: 与矢量存储一起对数据（PDF、TXT、CSV）进行通用聊天（[索引](https://github.com/facebookresearch/faiss)有用的部分（最多4个）以响应用户）| 与[ConversationalRetrievalChain](https://python.langchain.com/en/latest/modules/chains/index_examples/chat_vector_db.html) 一起使用 
-- **Lucky-Sheet** (beta): 在表格数据（CSV）上进行聊天| 用于精确信息| 处理整个文件| 与 [CSV_Agent](https://python.langchain.com/en/latest/modules/agents/toolkits/examples/csv.html) + [PandasAI](https://github.com/gventuri/pandas-ai) 一起用于数据操作和图形创建
+- **Lucky-Sheet** (beta): 在表格数据（CSV）上进行聊天| 用于精确信息| 处理整个文件| 与 [CSV_Agent](https://python.langchain.com/docs/templates/csv-agent) + [PandasAI](https://github.com/gventuri/pandas-ai) 一起用于数据操作和图形创建
 - **Lucky-Youtube**: 使用 [summarize-chain](https://python.langchain.com/en/latest/modules/chains/index_examples/summarize.html) 总结YouTube视频 
 """)
 st.markdown("---")
